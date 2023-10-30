@@ -1,0 +1,30 @@
+/**---------fonts---------**/
+
+
+
+
+#masthead{
+    background-image: url("/images/backgrounds/");
+    background-size: cover;
+    background-position: center;
+}
+
+#bio {
+    background-color: black;
+}
+
+.bg-darkgrey {
+    background-color: black;
+}
+
+
+#ContactInfo {
+    
+    background-color: #d42525;
+    display: block;
+    text-align: center;
+}
+section{
+    padding: 50px;
+    background-color: black;
+}
