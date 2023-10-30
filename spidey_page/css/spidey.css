@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&family=Teko&display=swap');
+
+
+body {
+    background-color: #cf1f1f;
+    font-family: 'Rajdhani', sans-serif;
+    color: white;
+    margin: 0;
+}
+
+h1,
+h2 {
+    font-family: 'Teko', sans-serif;
+}
+
+/********************************************************header****************************************************************/
+header {
+    background-color: #1f28cf;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+header img {
+    transform: rotate(-90deg);
+}
+
+#diffI {
+    color: rgb(255, 255, 255);
+}
+
+/***********************************************************navigationbar****************************************************/
+nav ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+   
+ 
+}
+
+nav li {
+    float: left;
+}
+
+nav a {
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    color: #cf1f1f;
+
+}
+
+nav a:hover {
+    background-color: #cf1f1f;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+#peterhiding{
+    float: left;
+}
+
+#spideymary{
+    float: right;
+}
+#caption{
+    float: right;
+
+  
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 15%;
+    padding-left: 35%;
+    width: 30%;
+  }
+ #flash {
+    float: right;
+    padding-right: 15%;
+ }
+
+/****************************************************sectio***************************************n***********/
+section {
+    background-color: #1f28cf;
+    width: 55vw;
+    margin: auto;
+    padding: 25px;    overflow: hidden;
+
+}
+
+
+.alternate {
+    background-color: #474041;
+}
+
+/****************************************************************footer**********************************************************************/
+footer {
+    background-color: #000000;
+    display: block;
+    padding: 10px;
+    text-align: center;
+}
+
+section img {
+    float: left;
+    margin-right: 20px;
+}
+
+/*********************************************************styled links*********************************************************************/
+a {
+    color: #ffffff;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #1f28cf;
+}
+
+a:active {
+    color: #ffffff;
+}
