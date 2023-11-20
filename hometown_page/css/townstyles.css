@@ -1,0 +1,107 @@
+#masthead {
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url('../images/backgrounds/widebridge.jpg');
+    background-size: auto;
+    background-position: center;
+    height: 40vh;
+}
+#indexbody{
+    background-image: url('../images/backgrounds/bridgered.jpg');
+    background-size: cover;
+font-family: 'Quicksand', sans-serif;
+}
+
+
+
+#geographymasthead{
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url('../images/backgrounds/closeupbridge.jpg');
+    background-size: auto;
+    background-position: center;
+    height: 40vh;
+}
+#geographybody{
+    background-image: url('../images/backgrounds/bridgeblue.jpg');
+    background-size: cover;
+font-family: 'Quicksand', sans-serif;
+}
+
+
+
+#peoplemasthead{
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url('../images/backgrounds/diversity.jpg');
+    background-size: auto;
+    background-position: center;
+    height: 40vh;
+}
+#peoplebody{
+    background-image: url('../images/backgrounds/bridgeblue.jpg');
+    background-size: cover;
+font-family: 'Quicksand', sans-serif;
+}
+
+
+
+#economymasthead{
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url('../images/backgrounds/alberta_oil.jpg');
+    background-size: auto;
+    background-position: center;
+    height: 40vh;
+}
+#economybody{
+    background-image: url('../images/backgrounds/bridgeblue.jpg');
+    background-size: cover;
+font-family: 'Quicksand', sans-serif;
+}
+
+
+
+#attractionsmasthead{
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url('../images/backgrounds/park.jpg');
+    background-size: auto;
+    background-position: center;
+    height: 40vh;
+}
+#attractionsbody{
+    background-image: url('../images/backgrounds/bridgeblue.jpg');
+    background-size: cover;
+font-family: 'Quicksand', sans-serif;
+}
+
+
+
+#referencesmasthead{
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url('../images/backgrounds/widebridge.jpg');
+    background-size: auto;
+    background-position: center;
+    height: 40vh;
+}
+#referencesbody{
+    background-image: url('../images/backgrounds/bridgered.jpg');
+    background-size: cover;
+font-family: 'Quicksand', sans-serif;
+}
+
+
+
+
+
+.bg-purple{
+    background-color: rgb(17, 87, 111);
+}
+
+.nav-link{
+    color: rgb(249, 207, 0) !important;
+}
+
+.navbar-brand{
+    color: rgb(255, 255, 255) !important;
+}
+
+footer a{
+color: White
+}
